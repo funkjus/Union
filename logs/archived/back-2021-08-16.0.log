@@ -1,0 +1,7 @@
+2021-08-16 16:31:42,429 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 9612 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-16 16:31:42,432 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-16 16:31:51,800 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 9.895 seconds (JVM running for 11.866)
+2021-08-16 16:32:23,569 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-7] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-16 16:33:07,487 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-4] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-16 16:42:22,996 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-6] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-16 16:43:09,381 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-6] user admin@mail.com [ request GET /api/v1/persons ]

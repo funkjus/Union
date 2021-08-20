@@ -1,0 +1,50 @@
+2021-08-17 08:48:15,784 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-10] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 15:56:09,666 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 3312 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-17 15:56:09,668 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-17 15:56:17,557 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 8.454 seconds (JVM running for 10.63)
+2021-08-17 15:56:32,790 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-3] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 15:57:35,336 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-5] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 15:57:54,963 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-9] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 15:58:42,496 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-4] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:05:57,370 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-10] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:06:01,416 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-3] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:06:05,896 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-4] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:06:30,927 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-1] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:06:36,372 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-2] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:06:38,530 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-3] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:06:44,696 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-6] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:06:45,389 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-5] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:07:02,222 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-8] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:07:03,169 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-3] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:09:47,988 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-1] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:12:07,377 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-6] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:12:12,559 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-1] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:12:15,261 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-8] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:12:41,292 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-1] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:12:57,103 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-1] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:12:59,833 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-7] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:13:03,147 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-10] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:13:43,322 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-5] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:13:46,579 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-7] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:15:05,195 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-2] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:47:23,287 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-8] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:47:31,952 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-2] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:48:06,113 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-3] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:48:09,624 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-7] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:48:13,185 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-7] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 16:51:37,569 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-1] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 19:11:57,513 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 624 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-17 19:11:57,514 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-17 19:12:05,524 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 8.466 seconds (JVM running for 9.949)
+2021-08-17 19:13:34,935 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 11924 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-17 19:13:34,936 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-17 19:13:40,795 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 6.591 seconds (JVM running for 8.218)
+2021-08-17 19:13:44,096 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-10] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 19:15:36,718 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-5] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 19:16:30,459 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-6] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 19:16:30,544 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-9] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 19:16:32,968 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-10] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 19:23:40,357 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-6] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 19:24:17,781 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-10] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 19:24:32,400 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-4] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-17 19:29:50,291 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-10] user admin@mail.com [ request GET /api/v1/persons ]

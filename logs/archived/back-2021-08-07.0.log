@@ -1,0 +1,23 @@
+2021-08-07 08:53:18,663 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 6340 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-07 08:53:18,666 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 08:53:24,905 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 6.697 seconds (JVM running for 8.204)
+2021-08-07 08:54:27,783 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 3340 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-07 08:54:27,784 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 08:54:32,620 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 5.326 seconds (JVM running for 6.642)
+2021-08-07 08:55:30,046 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 12496 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-07 08:55:30,047 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 08:55:35,325 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 5.687 seconds (JVM running for 6.799)
+2021-08-07 08:56:11,885 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 6816 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-07 08:56:11,886 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 08:56:16,616 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 5.131 seconds (JVM running for 6.21)
+2021-08-07 08:56:34,612 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 1916 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-07 08:56:34,614 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 08:56:39,398 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 5.171 seconds (JVM running for 6.348)
+2021-08-07 08:56:45,601 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-1] user admin@mail.com [ request GET /api/v1/persons ]
+2021-08-07 08:57:26,129 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 10120 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-07 08:57:26,130 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 08:57:30,976 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 5.267 seconds (JVM running for 6.362)
+2021-08-07 09:10:12,837 INFO org.springframework.boot.StartupInfoLogger [main] Starting AdminApiApplication on VIT7 with PID 13040 (C:\Users\Admin\Documents\union\target\classes started by Admin in C:\Users\Admin\Documents\Union)
+2021-08-07 09:10:12,838 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 09:10:17,473 INFO org.springframework.boot.StartupInfoLogger [main] Started AdminApiApplication in 5.105 seconds (JVM running for 6.285)
+2021-08-07 09:15:43,270 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-1] user admin@mail.com [ request GET /api/v1/persons ]

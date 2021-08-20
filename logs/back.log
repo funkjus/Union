@@ -1,0 +1,1 @@
+2021-08-18 09:39:37,852 INFO com.mama.union.controllers.PersonController [http-nio-8080-exec-10] user admin@mail.com [ request GET /api/v1/persons ]
